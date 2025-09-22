@@ -1,4 +1,4 @@
-# Nikel - Eduardo Fortes LUiz
+# Nikel - Eduardo Fortes Luiz
 
 Projeto feito através do curso da [Growdev Introdução a Programação Web - CODAÍ 2.0](https://plataforma.growdev.com.br/)  para o [edital](https://www.growdev.com.br/pdf/edital-despertar-dev.pdf)
 fornecido pela Growdev e Sicredi Pioneira
